@@ -44,7 +44,7 @@ nano ~/.local/share/barrier/SSL/Fingerprints/TrustedServers.txt
 5. Install dev dependencies on your Pi Zero
 
 ```bash
-sudo apt-get install libx11-dev
+sudo apt-get install libx11-dev libxi-dev
 ```
 
 6. Clone the code to your Pi Zero
